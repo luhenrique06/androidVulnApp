@@ -1,0 +1,405 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] /home/Luiz/.gradle/caches/transforms-3/13b36bd03435bcf2066018c18b3146ab/transformed/databinding-adapters-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] /home/Luiz/.gradle/caches/transforms-3/1bdbed1b08df0a2893f25ccfb7e5c0c7/transformed/jetified-databinding-ktx-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] /home/Luiz/.gradle/caches/transforms-3/1508de2901c3d6ce8881328d779c590c/transformed/databinding-runtime-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] /home/Luiz/.gradle/caches/transforms-3/f45931d05aea4530107430f2281351f9/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1651b78ab4a96f72a95821dc346d3cdd/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] /home/Luiz/.gradle/caches/transforms-3/9b79469626cdb8bc9bc02fd0bd48d349/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/Luiz/.gradle/caches/transforms-3/4ce277eb7b5f5bed9fb17de6ed4eaaab/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/Luiz/.gradle/caches/transforms-3/96c6e9471599e2d98640d4351fddfd3b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /home/Luiz/.gradle/caches/transforms-3/d0438c9243a10b257137fd3038554a7a/transformed/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1f43be6a9d67f01468f4b661d04b5df1/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/Luiz/.gradle/caches/transforms-3/a881ad0684f8fcf1aab08ba8550e4ba2/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/Luiz/.gradle/caches/transforms-3/5744adb5fa631577e65cc552447c543e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/21cefa9a804cc147f232211c8a74520b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/Luiz/.gradle/caches/transforms-3/93c1670a673d750e59fe6fdf62ad2cfe/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/Luiz/.gradle/caches/transforms-3/181fc9c5049098460441473dd1c20030/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Luiz/.gradle/caches/transforms-3/05de1cde9f8710c88cdc3770f5882777/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/60622f4e128e52c96fff25e652d84821/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3c805844e352b298edd65c72f2ece445/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/Luiz/.gradle/caches/transforms-3/68799c2c49572f9e46e74e8def7f9b3f/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.0] /home/Luiz/.gradle/caches/transforms-3/6504cbd65418e853d36002d1b7deb87a/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/Luiz/.gradle/caches/transforms-3/a919e98715bcc869f493e20008f9949e/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Luiz/.gradle/caches/transforms-3/c93b708af7092841e56048e76a76bddf/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/1caebbd3989ad947956f8b238d216c69/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/Luiz/.gradle/caches/transforms-3/fb06efe69db26dae21ce94fdc5f9e96e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/Luiz/.gradle/caches/transforms-3/808e871b0b88e4922c88f770b2c419db/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/Luiz/.gradle/caches/transforms-3/540e30cebc4643061856641e1f28d9f5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/Luiz/.gradle/caches/transforms-3/93021bf7dc3ded0294523cb43eee4954/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1ce2aee68219db453270d25cd7792671/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/f6aec0ed8d536d815f90c86e946831a8/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/Luiz/.gradle/caches/transforms-3/59221a05501f0208eaf0aafb3c8dc5fd/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /home/Luiz/.gradle/caches/transforms-3/14a8fed7de896e4fe1af917ffa9e1514/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/83006e2446cb304cd43ac56d97fb182d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] /home/Luiz/.gradle/caches/transforms-3/103e36b14b0ab4201a4535c43b0b8cf2/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/Luiz/.gradle/caches/transforms-3/ba9934ed93dcd5ab3e66b769f376e28e/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/Luiz/.gradle/caches/transforms-3/98659d69b79fa7c74a6e953d20cdb41b/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/Luiz/.gradle/caches/transforms-3/dfee5a773e018aabde9e1fb74731e1fa/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Luiz/.gradle/caches/transforms-3/5001a4c80b48f23301885ae5401f6026/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/Luiz/.gradle/caches/transforms-3/e06db5608a458d81cf5ddeadc24f26a7/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/Luiz/.gradle/caches/transforms-3/bb1a487faf552d5237b90fc67606f7cb/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/Luiz/.gradle/caches/transforms-3/60f7bfdfe1154b0f3769c7ce856d21f6/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/Luiz/.gradle/caches/transforms-3/535dfdef610fc81dd436ffd4cc038f1d/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3129d7f8f22635dae109b7d72e60d4e4/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/Luiz/.gradle/caches/transforms-3/81cda0b301c95d32030f2cc26971b032/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/Luiz/.gradle/caches/transforms-3/30ed7bd9ecaffb0f358b02f3f6ec9378/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/Luiz/.gradle/caches/transforms-3/733f0b6380069736c1fb2a06d5741fd8/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/Luiz/.gradle/caches/transforms-3/0ce84953e5a1958c0b832eade2a01ae6/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Luiz/.gradle/caches/transforms-3/076a70850372b99ef0a8d61298f6d6ca/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3fd2cb9e04c4e4289fc1f20368e1c454/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/Luiz/.gradle/caches/transforms-3/f3ed99a17761d85dc6cbafd487e680db/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/Luiz/.gradle/caches/transforms-3/97771571a3f8faca832470706cc0d412/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+	package
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:8:22-69
+permission#com.insecureshop.permission.READ
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:10:17-64
+application
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:12:5-97:19
+MERGED from [com.google.android.material:material:1.1.0] /home/Luiz/.gradle/caches/transforms-3/f45931d05aea4530107430f2281351f9/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/Luiz/.gradle/caches/transforms-3/f45931d05aea4530107430f2281351f9/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:16:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/Luiz/.gradle/caches/transforms-3/4ce277eb7b5f5bed9fb17de6ed4eaaab/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/Luiz/.gradle/caches/transforms-3/4ce277eb7b5f5bed9fb17de6ed4eaaab/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/Luiz/.gradle/caches/transforms-3/96c6e9471599e2d98640d4351fddfd3b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/Luiz/.gradle/caches/transforms-3/96c6e9471599e2d98640d4351fddfd3b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /home/Luiz/.gradle/caches/transforms-3/d0438c9243a10b257137fd3038554a7a/transformed/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /home/Luiz/.gradle/caches/transforms-3/d0438c9243a10b257137fd3038554a7a/transformed/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/Luiz/.gradle/caches/transforms-3/68799c2c49572f9e46e74e8def7f9b3f/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/Luiz/.gradle/caches/transforms-3/68799c2c49572f9e46e74e8def7f9b3f/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.0] /home/Luiz/.gradle/caches/transforms-3/14a8fed7de896e4fe1af917ffa9e1514/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/Luiz/.gradle/caches/transforms-3/14a8fed7de896e4fe1af917ffa9e1514/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/83006e2446cb304cd43ac56d97fb182d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/83006e2446cb304cd43ac56d97fb182d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/Luiz/.gradle/caches/transforms-3/bb1a487faf552d5237b90fc67606f7cb/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/Luiz/.gradle/caches/transforms-3/bb1a487faf552d5237b90fc67606f7cb/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/Luiz/.gradle/caches/transforms-3/14a8fed7de896e4fe1af917ffa9e1514/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:19:9-40
+	android:networkSecurityConfig
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:20:9-69
+	android:usesCleartextTraffic
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.insecureshop.ChooserActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:22:9-45:20
+	android:excludeFromRecents
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:24:13-46
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:23:13-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.VIEW
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:28:27-73
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/*+data:mimeType:audio/*+data:mimeType:image/*+data:mimeType:text/*+data:mimeType:video/*
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:30:13-40:29
+action#android.intent.action.SEND
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:31:25-66
+data
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:35:17-58
+	android:host
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:65:21-52
+	android:scheme
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:66:21-50
+	android:mimeType
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:35:23-55
+meta-data#android.service.chooser.chooser_target_service
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:42:13-44:69
+	android:value
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:44:17-66
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:43:17-78
+activity#com.insecureshop.AboutUsActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:46:9-48:39
+	android:exported
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:47:13-44
+activity#com.insecureshop.CartListActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:49:9-54
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:49:19-51
+activity#com.insecureshop.ProductListActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:50:9-56:20
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:50:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:54:27-74
+activity#com.insecureshop.LoginActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:57:9-51
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:57:19-48
+activity#com.insecureshop.WebViewActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:58:9-68:20
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:58:19-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.insecureshop+data:scheme:insecureshop
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:59:13-67:29
+category#android.intent.category.BROWSABLE
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:62:27-75
+activity#com.insecureshop.WebView2Activity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:69:9-75:20
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:69:19-51
+intent-filter#action:name:com.insecureshop.action.WEBVIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:70:13-74:29
+action#com.insecureshop.action.WEBVIEW
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:71:17-74
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:71:25-71
+activity#com.insecureshop.PrivateActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:76:9-78:40
+	android:exported
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:77:13-44
+activity#com.insecureshop.SendingDataViaActionActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:79:9-81:20
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:79:19-63
+activity#com.insecureshop.ResultActivity
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:82:9-75
+	android:exported
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:82:50-73
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:82:19-49
+provider#com.insecureshop.contentProvider.InsecureShopProvider
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:83:9-87:73
+	android:readPermission
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:87:13-70
+	android:authorities
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:85:13-60
+	android:exported
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:86:13-36
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:84:13-65
+provider#androidx.core.content.FileProvider
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:88:9-96:20
+	android:grantUriPermissions
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:92:13-47
+	android:authorities
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:90:13-65
+	android:exported
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:89:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:93:13-95:58
+	android:resource
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:95:17-55
+	android:name
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml:94:17-67
+uses-sdk
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] /home/Luiz/.gradle/caches/transforms-3/13b36bd03435bcf2066018c18b3146ab/transformed/databinding-adapters-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] /home/Luiz/.gradle/caches/transforms-3/13b36bd03435bcf2066018c18b3146ab/transformed/databinding-adapters-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] /home/Luiz/.gradle/caches/transforms-3/1bdbed1b08df0a2893f25ccfb7e5c0c7/transformed/jetified-databinding-ktx-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] /home/Luiz/.gradle/caches/transforms-3/1bdbed1b08df0a2893f25ccfb7e5c0c7/transformed/jetified-databinding-ktx-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] /home/Luiz/.gradle/caches/transforms-3/1508de2901c3d6ce8881328d779c590c/transformed/databinding-runtime-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] /home/Luiz/.gradle/caches/transforms-3/1508de2901c3d6ce8881328d779c590c/transformed/databinding-runtime-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/Luiz/.gradle/caches/transforms-3/f45931d05aea4530107430f2281351f9/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/Luiz/.gradle/caches/transforms-3/f45931d05aea4530107430f2281351f9/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1651b78ab4a96f72a95821dc346d3cdd/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1651b78ab4a96f72a95821dc346d3cdd/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] /home/Luiz/.gradle/caches/transforms-3/9b79469626cdb8bc9bc02fd0bd48d349/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /home/Luiz/.gradle/caches/transforms-3/9b79469626cdb8bc9bc02fd0bd48d349/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/Luiz/.gradle/caches/transforms-3/4ce277eb7b5f5bed9fb17de6ed4eaaab/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/Luiz/.gradle/caches/transforms-3/4ce277eb7b5f5bed9fb17de6ed4eaaab/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/Luiz/.gradle/caches/transforms-3/96c6e9471599e2d98640d4351fddfd3b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/Luiz/.gradle/caches/transforms-3/96c6e9471599e2d98640d4351fddfd3b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /home/Luiz/.gradle/caches/transforms-3/d0438c9243a10b257137fd3038554a7a/transformed/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /home/Luiz/.gradle/caches/transforms-3/d0438c9243a10b257137fd3038554a7a/transformed/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1f43be6a9d67f01468f4b661d04b5df1/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1f43be6a9d67f01468f4b661d04b5df1/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/Luiz/.gradle/caches/transforms-3/a881ad0684f8fcf1aab08ba8550e4ba2/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/Luiz/.gradle/caches/transforms-3/a881ad0684f8fcf1aab08ba8550e4ba2/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/Luiz/.gradle/caches/transforms-3/5744adb5fa631577e65cc552447c543e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/Luiz/.gradle/caches/transforms-3/5744adb5fa631577e65cc552447c543e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/21cefa9a804cc147f232211c8a74520b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/21cefa9a804cc147f232211c8a74520b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/Luiz/.gradle/caches/transforms-3/93c1670a673d750e59fe6fdf62ad2cfe/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/Luiz/.gradle/caches/transforms-3/93c1670a673d750e59fe6fdf62ad2cfe/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/Luiz/.gradle/caches/transforms-3/181fc9c5049098460441473dd1c20030/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/Luiz/.gradle/caches/transforms-3/181fc9c5049098460441473dd1c20030/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Luiz/.gradle/caches/transforms-3/05de1cde9f8710c88cdc3770f5882777/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Luiz/.gradle/caches/transforms-3/05de1cde9f8710c88cdc3770f5882777/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/60622f4e128e52c96fff25e652d84821/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/60622f4e128e52c96fff25e652d84821/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3c805844e352b298edd65c72f2ece445/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3c805844e352b298edd65c72f2ece445/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/Luiz/.gradle/caches/transforms-3/68799c2c49572f9e46e74e8def7f9b3f/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/Luiz/.gradle/caches/transforms-3/68799c2c49572f9e46e74e8def7f9b3f/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /home/Luiz/.gradle/caches/transforms-3/6504cbd65418e853d36002d1b7deb87a/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /home/Luiz/.gradle/caches/transforms-3/6504cbd65418e853d36002d1b7deb87a/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/Luiz/.gradle/caches/transforms-3/a919e98715bcc869f493e20008f9949e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/Luiz/.gradle/caches/transforms-3/a919e98715bcc869f493e20008f9949e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Luiz/.gradle/caches/transforms-3/c93b708af7092841e56048e76a76bddf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Luiz/.gradle/caches/transforms-3/c93b708af7092841e56048e76a76bddf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/1caebbd3989ad947956f8b238d216c69/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/1caebbd3989ad947956f8b238d216c69/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/Luiz/.gradle/caches/transforms-3/fb06efe69db26dae21ce94fdc5f9e96e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/Luiz/.gradle/caches/transforms-3/fb06efe69db26dae21ce94fdc5f9e96e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/Luiz/.gradle/caches/transforms-3/808e871b0b88e4922c88f770b2c419db/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/Luiz/.gradle/caches/transforms-3/808e871b0b88e4922c88f770b2c419db/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/Luiz/.gradle/caches/transforms-3/540e30cebc4643061856641e1f28d9f5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/Luiz/.gradle/caches/transforms-3/540e30cebc4643061856641e1f28d9f5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/Luiz/.gradle/caches/transforms-3/93021bf7dc3ded0294523cb43eee4954/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/Luiz/.gradle/caches/transforms-3/93021bf7dc3ded0294523cb43eee4954/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1ce2aee68219db453270d25cd7792671/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/Luiz/.gradle/caches/transforms-3/1ce2aee68219db453270d25cd7792671/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/f6aec0ed8d536d815f90c86e946831a8/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/Luiz/.gradle/caches/transforms-3/f6aec0ed8d536d815f90c86e946831a8/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/Luiz/.gradle/caches/transforms-3/59221a05501f0208eaf0aafb3c8dc5fd/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/Luiz/.gradle/caches/transforms-3/59221a05501f0208eaf0aafb3c8dc5fd/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /home/Luiz/.gradle/caches/transforms-3/14a8fed7de896e4fe1af917ffa9e1514/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/Luiz/.gradle/caches/transforms-3/14a8fed7de896e4fe1af917ffa9e1514/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/83006e2446cb304cd43ac56d97fb182d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Luiz/.gradle/caches/transforms-3/83006e2446cb304cd43ac56d97fb182d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.0] /home/Luiz/.gradle/caches/transforms-3/103e36b14b0ab4201a4535c43b0b8cf2/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] /home/Luiz/.gradle/caches/transforms-3/103e36b14b0ab4201a4535c43b0b8cf2/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/Luiz/.gradle/caches/transforms-3/ba9934ed93dcd5ab3e66b769f376e28e/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/Luiz/.gradle/caches/transforms-3/ba9934ed93dcd5ab3e66b769f376e28e/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/Luiz/.gradle/caches/transforms-3/98659d69b79fa7c74a6e953d20cdb41b/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/Luiz/.gradle/caches/transforms-3/98659d69b79fa7c74a6e953d20cdb41b/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/Luiz/.gradle/caches/transforms-3/dfee5a773e018aabde9e1fb74731e1fa/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/Luiz/.gradle/caches/transforms-3/dfee5a773e018aabde9e1fb74731e1fa/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Luiz/.gradle/caches/transforms-3/5001a4c80b48f23301885ae5401f6026/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Luiz/.gradle/caches/transforms-3/5001a4c80b48f23301885ae5401f6026/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/Luiz/.gradle/caches/transforms-3/e06db5608a458d81cf5ddeadc24f26a7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/Luiz/.gradle/caches/transforms-3/e06db5608a458d81cf5ddeadc24f26a7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/Luiz/.gradle/caches/transforms-3/bb1a487faf552d5237b90fc67606f7cb/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/Luiz/.gradle/caches/transforms-3/bb1a487faf552d5237b90fc67606f7cb/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/Luiz/.gradle/caches/transforms-3/60f7bfdfe1154b0f3769c7ce856d21f6/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/Luiz/.gradle/caches/transforms-3/60f7bfdfe1154b0f3769c7ce856d21f6/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/Luiz/.gradle/caches/transforms-3/535dfdef610fc81dd436ffd4cc038f1d/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/Luiz/.gradle/caches/transforms-3/535dfdef610fc81dd436ffd4cc038f1d/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3129d7f8f22635dae109b7d72e60d4e4/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3129d7f8f22635dae109b7d72e60d4e4/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/Luiz/.gradle/caches/transforms-3/81cda0b301c95d32030f2cc26971b032/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/Luiz/.gradle/caches/transforms-3/81cda0b301c95d32030f2cc26971b032/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/Luiz/.gradle/caches/transforms-3/30ed7bd9ecaffb0f358b02f3f6ec9378/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/Luiz/.gradle/caches/transforms-3/30ed7bd9ecaffb0f358b02f3f6ec9378/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/Luiz/.gradle/caches/transforms-3/733f0b6380069736c1fb2a06d5741fd8/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/Luiz/.gradle/caches/transforms-3/733f0b6380069736c1fb2a06d5741fd8/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/Luiz/.gradle/caches/transforms-3/0ce84953e5a1958c0b832eade2a01ae6/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/Luiz/.gradle/caches/transforms-3/0ce84953e5a1958c0b832eade2a01ae6/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Luiz/.gradle/caches/transforms-3/076a70850372b99ef0a8d61298f6d6ca/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Luiz/.gradle/caches/transforms-3/076a70850372b99ef0a8d61298f6d6ca/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3fd2cb9e04c4e4289fc1f20368e1c454/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/Luiz/.gradle/caches/transforms-3/3fd2cb9e04c4e4289fc1f20368e1c454/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/Luiz/.gradle/caches/transforms-3/f3ed99a17761d85dc6cbafd487e680db/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/Luiz/.gradle/caches/transforms-3/f3ed99a17761d85dc6cbafd487e680db/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/Luiz/.gradle/caches/transforms-3/97771571a3f8faca832470706cc0d412/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/Luiz/.gradle/caches/transforms-3/97771571a3f8faca832470706cc0d412/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+		ADDED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+		INJECTED from /home/Luiz/InsecureShop/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:3.2.3] /home/Luiz/.gradle/caches/transforms-3/f11fff3154d082edc8d0f90a645abe0d/transformed/jetified-uploadservice-3.2.3/AndroidManifest.xml:18:13-65
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/Luiz/.gradle/caches/transforms-3/a1ecd0fc6fae2ed2930b1b740aaae389/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
