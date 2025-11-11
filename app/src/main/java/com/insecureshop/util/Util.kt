@@ -19,7 +19,7 @@ object Util {
     fun verifyUserNamePassword(username: String, password: String): Boolean {
         Log.d("userName", username)
         Log.d("password", password)
-        log.d("api-key", api-key)
+        log.d("cpf", user.cpf)
         if (getUserCreds().containsKey(username)) {
             val passwordValue = getUserCreds()[username]
             return passwordValue.equals(password)
