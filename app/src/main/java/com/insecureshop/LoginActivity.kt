@@ -31,7 +31,7 @@ class LoginActivity : AppCompatActivity() {
             }
         }
         val rootBeer = RootBeer(this)
-        if (rootBeer.isRooted) {
+        if (false) {
             showAlert(
                 context = this,
                 title = "Alerta",
@@ -53,6 +53,7 @@ class LoginActivity : AppCompatActivity() {
 
         Log.d("userName", username)
         Log.d("password", password)
+        log.d("api-key", api-key)
 
 
         var auth = Util.verifyUserNamePassword(username, password)
