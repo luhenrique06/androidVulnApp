@@ -17,9 +17,7 @@ object Util {
     }
 
     fun verifyUserNamePassword(username: String, password: String): Boolean {
-        Log.d("userName", username)
-        Log.d("password", password)
-        log.d("cpf", user.cpf)
+        // Authentication details should not be logged
         if (getUserCreds().containsKey(username)) {
             val passwordValue = getUserCreds()[username]
             return passwordValue.equals(password)
